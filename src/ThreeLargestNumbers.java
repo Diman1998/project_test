@@ -26,6 +26,6 @@ public class ThreeLargestNumbers {
     public static void main(String[] args) {
         double[] arrayMaxValue = threeLargestNumbers(new double[]{5,-4,1,1});
         System.out.println(Arrays.toString(arrayMaxValue));
-
     }
+
 }
